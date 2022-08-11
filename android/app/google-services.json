@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599868749797",
+    "firebase_url": "https://avivamiento-6351c-default-rtdb.firebaseio.com",
+    "project_id": "avivamiento-6351c",
+    "storage_bucket": "avivamiento-6351c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599868749797:android:8892cbd08a64bc4c6b210c",
+        "android_client_info": {
+          "package_name": "com.iglesia.avivamiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599868749797-i1nn0ariproq3ggtvba8ch7177hml0d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwSO1MepnInoP3LpcJ3R_GC6ds_3ImNag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599868749797-i1nn0ariproq3ggtvba8ch7177hml0d6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599868749797-7bitl7oq6m59bij1k0ju391p0pk0g9s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iglesia.avivamiento"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
