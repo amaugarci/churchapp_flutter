@@ -1,0 +1,13 @@
+{
+  "name": "pbxflex-user-app",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {},
+  "scripts": {
+    "keycloak": "docker compose -f docker-compose.dev.yml run keycloak",
+    "dev": "docker compose -f docker-compose.dev.yml up -d",
+	"start": "docker compose up -d"
+  },
+  "author": "",
+  "license": "ISC"
+}
